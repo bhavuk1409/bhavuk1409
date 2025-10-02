@@ -1,10 +1,10 @@
-# Hi, I'm Bhavuk Agrawal 👋  
+# Hi, I'm Bhavuk Agrawal 
 
 **CS Undergrad | AI & Backend Developer | Exploring LLMs, LangChain, LangGraph, LangSmith, Deep Learning, GenAI & MCPs**  
 
 ---
 
-## 🧠 About Me  
+##  About Me  
 - Computer Science undergraduate at **Bennett University** (CGPA: 9.0/10, Batch 2027).  
 - Passionate about **AI, Deep Learning, and Generative AI**.  
 - Hands-on experience with **LLMs, LangChain, LangGraph, LangSmith, AWS, and Cloud Deployments**.  
@@ -13,7 +13,7 @@
 
 ---
 
-## 🛠 Skills  
+##  Skills  
 - **Programming Languages:** Python, C++, Java, JavaScript  
 - **AI/ML:** Deep Learning, NLP, Computer Vision, LLMs, GenAI, LangChain, LangGraph, LangSmith, MCPs, RAG, Vector DBs  
 - **Frameworks & Tools:** TensorFlow, PyTorch, FastAPI, React, Streamlit  
@@ -22,7 +22,7 @@
 
 ---
 
-## 🚀 Projects  
+##  Projects  
 
 ### [IntelliMeet – AI-Powered Video Conferencing](https://github.com/bhavuk1409/intellimeet_updated)  
 - Real-time multilingual subtitles (Whisper).  
@@ -50,12 +50,12 @@
 
 ---
 
-## 📈 GitHub Stats  
+##  GitHub Stats  
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=bhavuk1409&show_icons=true&hide_title=true&count_private=true&hide=prs)  
 
 ---
 
-## 🎓 Experience  
+##  Experience  
 **Machine Learning Intern – National University of Singapore (NUS)**  
 *Singapore | June 2024 – July 2024*  
 - Built a **Medical Report Analysis Tool** using TF-IDF.  
@@ -65,14 +65,14 @@
 
 ---
 
-## 📫 Connect with Me  
+##  Connect with Me  
 - **Email:** bhavukagrawal1409@gmail.com  
 - **LinkedIn:** [linkedin.com/in/bhavukagrawal1409](https://www.linkedin.com/in/bhavukagrawal1409)  
 - **GitHub:** [github.com/bhavuk1409](https://github.com/bhavuk1409)  
 
 ---
 
-## 🌱 Currently Learning  
+##  Currently Learning  
 - Advanced Generative AI applications.  
 - Multi-agent AI systems with LangGraph & LangSmith.  
 - Large-scale AI deployment on cloud.  
