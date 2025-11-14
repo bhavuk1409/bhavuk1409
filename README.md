@@ -12,11 +12,12 @@
 ---
 
 ## Skills  
-- Languages: Python, C++, JavaScript  
-- AI/ML: LLMs, NLP, Computer Vision, RAG, Vector Databases  
-- Frameworks: PyTorch, TensorFlow, FastAPI, LangChain, LangGraph  
-- Infrastructure: AWS, Docker  
-- Databases: SQL, MongoDB
+- Programming Languages: C++, Python, JavaScript.
+- Machine Learning & AI: Deep learning, Computer Vision, LLMs, Generative AI, LangChain, Langraph,
+Langsmith, MCPs, Vector DBs, RAG, TensorFlow, PyTorch, NLP, Transformers, Hugging Face, Fine
+Tuning LLMs LoRA, QLoRA, PEFT.
+- Web Development & Backend: FastAPI, MongoDB, AWS, SQL, Docker.
+- Problem Solving Skills: Data Structures & Algorithms, Competitive Programming.
 
 ---
 
