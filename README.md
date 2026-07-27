@@ -17,7 +17,7 @@
 
 <br><br>
 
-[![Portfolio](https://img.shields.io/badge/portfolio-bhavukagrawal.vercel.app-39FF14?style=flat-square&labelColor=0D1117)](https://bhavukagrawal.vercel.app) [![LinkedIn](https://img.shields.io/badge/linkedin-bhavukagrawal1409-39FF14?style=flat-square&logo=linkedin&logoColor=0D1117&labelColor=0D1117)](https://linkedin.com/in/bhavukagrawal1409) [![Email](https://img.shields.io/badge/email-bhavukagrawal1409-39FF14?style=flat-square&logo=gmail&logoColor=0D1117&labelColor=0D1117)](mailto:bhavukagrawal1409@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/linkedin-bhavukagrawal1409-39FF14?style=flat-square&logo=linkedin&logoColor=0D1117&labelColor=0D1117)](https://linkedin.com/in/bhavukagrawal1409) [![Email](https://img.shields.io/badge/email-bhavukagrawal1409-39FF14?style=flat-square&logo=gmail&logoColor=0D1117&labelColor=0D1117)](mailto:bhavukagrawal1409@gmail.com)
 
 </div>
 
@@ -84,11 +84,8 @@ bhavuk@dev:~$ docker ps --format "table {{.Names}}\t{{.Status}}\t{{.Stack}}"
 <tbody>
 <tr><td><b>nipuna-ai</b></td><td>up · live</td><td>FastAPI · PostgreSQL · LangChain · RAG</td></tr>
 <tr><td><b>nexus</b></td><td>up · live</td><td>React · TypeScript · Groq (LLaMA 3.3 70B)</td></tr>
-<tr><td><b>intervia-backend</b></td><td>up · public</td><td>FastAPI · LangGraph · Groq · DeepFace</td></tr>
 <tr><td><b>insurflow</b></td><td>up · public</td><td>FastAPI · PyTorch · YOLOv8 · TrOCR</td></tr>
 <tr><td><b>r-search</b></td><td>exited (0) · trained</td><td>PyTorch · Transformers · LoRA</td></tr>
-<tr><td><b>football-yolo</b></td><td>up · public</td><td>YOLOv8 · ByteTrack · OpenCV</td></tr>
-<tr><td><b>speech-asl</b></td><td>up · public</td><td>Azure · Stanza · MoviePy · Gradio</td></tr>
 </tbody>
 </table>
 
@@ -133,24 +130,6 @@ serverless on Vercel, validated with a 29-test suite.
 </details>
 
 <details>
-<summary><code>bhavuk@dev:~$ cat intervia-backend/README.md</code></summary>
-<br>
-
-<img src="https://img.shields.io/badge/status-public-39FF14?style=flat-square&labelColor=0D1117" /> <img src="https://img.shields.io/badge/stack-FastAPI_·_LangGraph_·_Groq-39FF14?style=flat-square&labelColor=0D1117" />
-
-**Intervia — Multi-Agent AI Interview Evaluator**
-
-Generates interview questions from a resume + job description,
-transcribes candidate answers, reads facial and vocal emotion from
-video, then runs it all through a LangGraph pipeline — Behavior,
-Content, and Communication agents feeding a Judge agent — to produce a
-structured hiring verdict.
-
-[→ github.com/bhavuk1409/intervia-backend](https://github.com/bhavuk1409/intervia-backend)
-
-</details>
-
-<details>
 <summary><code>bhavuk@dev:~$ cat insurflow/README.md</code></summary>
 <br>
 
@@ -182,38 +161,6 @@ format compliance; retrieval-grounded inference via the Exa search API.
 +27% accuracy on HotpotQA over the base model, −35% VRAM via LoRA/PEFT.
 
 `repo link: add here`
-
-</details>
-
-<details>
-<summary><code>bhavuk@dev:~$ cat football-yolo/README.md</code></summary>
-<br>
-
-<img src="https://img.shields.io/badge/status-public-39FF14?style=flat-square&labelColor=0D1117" /> <img src="https://img.shields.io/badge/stack-YOLOv8_·_ByteTrack_·_OpenCV-39FF14?style=flat-square&labelColor=0D1117" />
-
-**Football Match Analysis with YOLOv8**
-
-Detects players, referees, and the ball in match footage; tracks them
-with ByteTrack; clusters shirt color into two teams; estimates ball
-possession and camera-corrected player speed/distance.
-
-[→ github.com/bhavuk1409/Object-Detection-Using-Yolo](https://github.com/bhavuk1409/Object-Detection-Using-Yolo)
-
-</details>
-
-<details>
-<summary><code>bhavuk@dev:~$ cat speech-asl/README.md</code></summary>
-<br>
-
-<img src="https://img.shields.io/badge/status-public-39FF14?style=flat-square&labelColor=0D1117" /> <img src="https://img.shields.io/badge/stack-Azure_·_Stanza_·_Gradio-39FF14?style=flat-square&labelColor=0D1117" />
-
-**Speech-to-ASL Sign Language Converter**
-
-Converts spoken Gujarati audio into ASL video: Azure transcribes and
-translates the speech, Stanza lemmatizes the resulting English text,
-and MoviePy concatenates the matching pre-recorded ASL clips.
-
-[→ github.com/bhavuk1409/speech-asl](https://github.com/bhavuk1409/speech-asl)
 
 </details>
 
@@ -307,11 +254,9 @@ bhavuk@dev:~$ cat /etc/contact.conf
 ```
 
 ```
-phone     +91-7060802357
 email     bhavukagrawal1409@gmail.com
 linkedin  linkedin.com/in/bhavukagrawal1409
 github    github.com/bhavuk1409
-portfolio bhavukagrawal.vercel.app
 ```
 
 <div align="center">
