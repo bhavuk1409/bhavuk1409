@@ -15,6 +15,10 @@
 
 <img src="https://komarev.com/ghpvc/?username=bhavuk1409&label=profile%20views&color=39FF14&style=flat-square" alt="profile views" />
 
+<br><br>
+
+[![Portfolio](https://img.shields.io/badge/portfolio-bhavukagrawal.vercel.app-39FF14?style=flat-square&labelColor=0D1117)](https://bhavukagrawal.vercel.app) [![LinkedIn](https://img.shields.io/badge/linkedin-bhavukagrawal1409-39FF14?style=flat-square&logo=linkedin&logoColor=0D1117&labelColor=0D1117)](https://linkedin.com/in/bhavukagrawal1409) [![Email](https://img.shields.io/badge/email-bhavukagrawal1409-39FF14?style=flat-square&logo=gmail&logoColor=0D1117&labelColor=0D1117)](mailto:bhavukagrawal1409@gmail.com)
+
 </div>
 
 <br>
@@ -79,6 +83,7 @@ bhavuk@dev:~$ docker ps --format "table {{.Names}}\t{{.Status}}\t{{.Stack}}"
 </thead>
 <tbody>
 <tr><td><b>nipuna-ai</b></td><td>up · live</td><td>FastAPI · PostgreSQL · LangChain · RAG</td></tr>
+<tr><td><b>nexus</b></td><td>up · live</td><td>React · TypeScript · Groq (LLaMA 3.3 70B)</td></tr>
 <tr><td><b>intervia-backend</b></td><td>up · public</td><td>FastAPI · LangGraph · Groq · DeepFace</td></tr>
 <tr><td><b>insurflow</b></td><td>up · public</td><td>FastAPI · PyTorch · YOLOv8 · TrOCR</td></tr>
 <tr><td><b>r-search</b></td><td>exited (0) · trained</td><td>PyTorch · Transformers · LoRA</td></tr>
@@ -101,6 +106,27 @@ schema-grounded Text-to-SQL + RAG framework specifically to eliminate
 fabricated financial outputs, with live Tally sync via XML/TDL and ODBC,
 and a credit-metered subscription tier priced over 90% below traditional
 virtual CFO services.
+
+`repo link: add here`
+
+</details>
+
+<details>
+<summary><code>bhavuk@dev:~$ cat nexus/README.md</code></summary>
+<br>
+
+<img src="https://img.shields.io/badge/status-live-39FF14?style=flat-square&labelColor=0D1117" /> <img src="https://img.shields.io/badge/stack-React_·_TypeScript_·_Groq-39FF14?style=flat-square&labelColor=0D1117" />
+
+**Nexus — Multi-Agent LLM Trading Analyst**
+
+4-agent trading analyst — Technical, Fundamental, Sentiment, and Risk —
+synthesizing real-time market data into a final buy/sell call with
+entry, stop-loss, and take-profit levels. Computes 15+ technical
+indicators (Wilder RSI, MACD, Bollinger Bands, ATR) from live yfinance
+OHLCV data with a strict no-fabrication guarantee, coordinates parallel
+LLaMA 3.3 70B agent calls via Groq, and applies a risk-anchored
+coordinator rule (≥1.5 risk:reward) for position sizing. Deployed
+serverless on Vercel, validated with a 29-test suite.
 
 `repo link: add here`
 
@@ -281,9 +307,11 @@ bhavuk@dev:~$ cat /etc/contact.conf
 ```
 
 ```
+phone     +91-7060802357
 email     bhavukagrawal1409@gmail.com
 linkedin  linkedin.com/in/bhavukagrawal1409
 github    github.com/bhavuk1409
+portfolio bhavukagrawal.vercel.app
 ```
 
 <div align="center">
