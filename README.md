@@ -11,6 +11,10 @@
 
 <sub>uptime: since 2023 · shell: zsh · status: <b style="color:#39FF14">online</b></sub>
 
+<br>
+
+<img src="https://komarev.com/ghpvc/?username=bhavuk1409&label=profile%20views&color=39FF14&style=flat-square" alt="profile views" />
+
 </div>
 
 <br>
