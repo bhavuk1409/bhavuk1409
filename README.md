@@ -1,270 +1,199 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=Rect&color=0:0D1117,100:0D1117&height=3&section=header" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,18,20&height=220&section=header&text=Bhavuk%20Agrawal&fontSize=58&fontColor=ffffff&fontAlignY=38&desc=AI%20%2F%20ML%20Engineer%20%C2%B7%20Multi-Agent%20Systems%20%C2%B7%20LLM%20Fine-Tuning&descSize=18&descAlignY=60&animation=fadeIn" width="100%" alt="header" />
 
-```
-┌─[bhavuk@dev]─[~]
-└──╼ $ ssh bhavuk1409
-```
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=900&color=39FF14&background=0D111700&center=true&vCenter=true&width=700&height=45&lines=connecting+to+bhavuk1409...;authenticating...;access+granted.;welcome+back%2C+operator." alt="typing" />
-
-<sub>uptime: since 2023 · shell: zsh · status: <b style="color:#39FF14">online</b></sub>
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=500&size=20&pause=1000&color=A78BFA&center=true&vCenter=true&width=700&height=45&lines=Building+AI+systems+that+hold+up+outside+a+notebook;Multi-agent+pipelines+%C2%B7+RAG+%C2%B7+RL+fine-tuning;Former+ML+Intern+%40+NUS+Singapore" alt="typing" />
 
 <br>
 
-<img src="https://komarev.com/ghpvc/?username=bhavuk1409&label=profile%20views&color=39FF14&style=flat-square" alt="profile views" />
+<img src="https://komarev.com/ghpvc/?username=bhavuk1409&label=Profile%20Views&color=8b5cf6&style=for-the-badge" alt="profile views" />
 
 <br><br>
 
-[![LinkedIn](https://img.shields.io/badge/linkedin-bhavukagrawal1409-39FF14?style=flat-square&logo=linkedin&logoColor=0D1117&labelColor=0D1117)](https://linkedin.com/in/bhavukagrawal1409) [![Email](https://img.shields.io/badge/email-bhavukagrawal1409-39FF14?style=flat-square&logo=gmail&logoColor=0D1117&labelColor=0D1117)](mailto:bhavukagrawal1409@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Bhavuk_Agrawal-8b5cf6?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/bhavukagrawal1409)
+[![Email](https://img.shields.io/badge/Email-Get_in_touch-ec4899?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bhavukagrawal1409@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-bhavuk1409-6366f1?style=for-the-badge&logo=github&logoColor=white)](https://github.com/bhavuk1409)
 
 </div>
 
 <br>
 
-```
-bhavuk@dev:~$ whoami
-```
+## About Me
 
-```
-Bhavuk Agrawal
-B.Tech Computer Science, Bennett University (2023–2027) · CGPA 8.91/10
-Based in Greater Noida, India
+I'm a Computer Science undergrad at **Bennett University** (B.Tech, 2023–2027, CGPA **8.91/10**), based in Greater Noida, India.
 
-I build systems that have to hold up outside a notebook: multi-agent
-pipelines that have to agree with each other, RAG that isn't allowed to
-hallucinate, LLMs fine-tuned under a VRAM budget. Former ML intern at
-NUS Singapore. Currently building Nipuna AI, a financial copilot for
-Indian MSMEs.
-```
-
-```
-bhavuk@dev:~$ cat education.log
-```
-
-```
-[2023-08] ── ENROLLED   Bennett University · B.Tech CS
-[  ...  ] ── COURSEWORK Machine Learning, Deep Learning, Generative AI,
-                        Data Structures & Algorithms, Computer Networks,
-                        Operating Systems
-[2024-06] ── EXTERNAL   ML Intern, National University of Singapore
-[2027-05] ── EXPECTED   Graduation
-```
-
-```
-bhavuk@dev:~$ git log --oneline --all -- experience/
-```
-
-```
-* 2024-07  (NUS · on-site)  deploy: served real-time predictions from
-                             EC2 + S3-backed model endpoint
-* 2024-07  (NUS · on-site)  eval: measured pipeline on precision /
-                             recall / F1 against held-out medical reports
-* 2024-06  (NUS · on-site)  feat: built TF-IDF + scikit-learn text
-                             classification pipeline for medical NLP
-* 2024-06  (NUS · on-site)  init: onboarded onto faculty research team,
-                             supervised learning on structured medical data
-```
+I build systems that have to hold up outside a notebook: multi-agent pipelines that have to agree with each other, outputs that aren't allowed to be fabricated, and LLMs fine-tuned under a VRAM budget. Previously an ML intern at the **National University of Singapore**.
 
 <br>
 
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0D1117&height=2&width=800" />
-</div>
+## Education & Experience
 
-```
-bhavuk@dev:~$ docker ps --format "table {{.Names}}\t{{.Status}}\t{{.Stack}}"
-```
+| | |
+|---|---|
+| **Bennett University** | B.Tech in Computer Science · 2023 – 2027 (expected) · CGPA 8.91/10 |
+| **Coursework** | Machine Learning · Deep Learning · Generative AI · DSA · Computer Networks · Operating Systems |
+| **ML Intern, National University of Singapore** | Jun – Jul 2024 · On-site, faculty research team |
 
-<table>
-<thead>
-<tr><th align="left">NAME</th><th align="left">STATUS</th><th align="left">STACK</th></tr>
-</thead>
-<tbody>
-<tr><td><b>nipuna-ai</b></td><td>up · live</td><td>FastAPI · PostgreSQL · LangChain · RAG</td></tr>
-<tr><td><b>nexus</b></td><td>up · live</td><td>React · TypeScript · Groq (LLaMA 3.3 70B)</td></tr>
-<tr><td><b>insurflow</b></td><td>up · public</td><td>FastAPI · PyTorch · YOLOv8 · TrOCR</td></tr>
-<tr><td><b>r-search</b></td><td>exited (0) · trained</td><td>PyTorch · Transformers · LoRA</td></tr>
-</tbody>
-</table>
+**What I did at NUS**
 
-<details open>
-<summary><code>bhavuk@dev:~$ cat nipuna-ai/README.md</code></summary>
-<br>
-
-<img src="https://img.shields.io/badge/status-live-39FF14?style=flat-square&labelColor=0D1117" /> <img src="https://img.shields.io/badge/stack-FastAPI_·_LangChain_·_RAG-39FF14?style=flat-square&labelColor=0D1117" />
-
-**Nipuna AI — AI Financial Copilot for MSMEs**
-
-Omnichannel copilot unifying Tally ERP, Zoho Books, Gmail, WhatsApp, and
-Instagram into one financial data layer for Indian MSMEs. Built a
-schema-grounded Text-to-SQL + RAG framework specifically to eliminate
-fabricated financial outputs, with live Tally sync via XML/TDL and ODBC,
-and a credit-metered subscription tier priced over 90% below traditional
-virtual CFO services.
-
-`repo link: add here`
-
-</details>
-
-<details>
-<summary><code>bhavuk@dev:~$ cat nexus/README.md</code></summary>
-<br>
-
-<img src="https://img.shields.io/badge/status-live-39FF14?style=flat-square&labelColor=0D1117" /> <img src="https://img.shields.io/badge/stack-React_·_TypeScript_·_Groq-39FF14?style=flat-square&labelColor=0D1117" />
-
-**Nexus — Multi-Agent LLM Trading Analyst**
-
-4-agent trading analyst — Technical, Fundamental, Sentiment, and Risk —
-synthesizing real-time market data into a final buy/sell call with
-entry, stop-loss, and take-profit levels. Computes 15+ technical
-indicators (Wilder RSI, MACD, Bollinger Bands, ATR) from live yfinance
-OHLCV data with a strict no-fabrication guarantee, coordinates parallel
-LLaMA 3.3 70B agent calls via Groq, and applies a risk-anchored
-coordinator rule (≥1.5 risk:reward) for position sizing. Deployed
-serverless on Vercel, validated with a 29-test suite.
-
-`repo link: add here`
-
-</details>
-
-<details>
-<summary><code>bhavuk@dev:~$ cat insurflow/README.md</code></summary>
-<br>
-
-<img src="https://img.shields.io/badge/status-public-39FF14?style=flat-square&labelColor=0D1117" /> <img src="https://img.shields.io/badge/stack-FastAPI_·_PyTorch_·_YOLOv8-39FF14?style=flat-square&labelColor=0D1117" />
-
-**InsurFlow — Multi-Agent Vehicle Insurance Claims System**
-
-End-to-end claims processor coordinating 7 specialized agents — intake
-validation, damage assessment (YOLOv8), OCR extraction (TrOCR), fraud
-detection (Isolation Forest), policy matching, and decision logic —
-behind a FastAPI backend with MCP-based tool calling for
-database/payment integrations.
-
-`repo link: add here`
-
-</details>
-
-<details>
-<summary><code>bhavuk@dev:~$ cat r-search/README.md</code></summary>
-<br>
-
-<img src="https://img.shields.io/badge/HotpotQA-%2B27%25_accuracy-39FF14?style=flat-square&labelColor=0D1117" /> <img src="https://img.shields.io/badge/VRAM-%E2%88%9235%25-39FF14?style=flat-square&labelColor=0D1117" />
-
-**R-Search — RL-Enhanced LLM Reasoning**
-
-Fine-tuned a 7B-parameter LLM with GRPO reinforcement learning for
-multi-hop reasoning. Composite reward balances semantic coherence with
-format compliance; retrieval-grounded inference via the Exa search API.
-+27% accuracy on HotpotQA over the base model, −35% VRAM via LoRA/PEFT.
-
-`repo link: add here`
-
-</details>
+- Worked on supervised learning over structured medical data as part of a faculty research team.
+- Built a **TF-IDF + scikit-learn** text classification pipeline for medical NLP.
+- Evaluated it with precision, recall and F1 against held-out medical reports.
+- Deployed it to serve real-time predictions from an **EC2 + S3-backed** model endpoint.
 
 <br>
 
-```
-bhavuk@dev:~$ pip list --format=freeze | grep -v "^#"
-```
+## Featured Projects
 
 <table>
 <tr>
-<td valign="top" width="25%">
+<td width="50%" valign="top">
 
-**languages**
+### Nexus
+**Multi-Agent LLM Trading Analyst**
 
-<img src="https://img.shields.io/badge/-Python-39FF14?style=flat-square&logo=python&logoColor=0D1117&labelColor=0D1117" /><br>
-<img src="https://img.shields.io/badge/-C++-39FF14?style=flat-square&logo=cplusplus&logoColor=0D1117&labelColor=0D1117" /><br>
-<img src="https://img.shields.io/badge/-Java-39FF14?style=flat-square&logo=openjdk&logoColor=0D1117&labelColor=0D1117" /><br>
-<img src="https://img.shields.io/badge/-SQL-39FF14?style=flat-square&logo=postgresql&logoColor=0D1117&labelColor=0D1117" />
+![React](https://img.shields.io/badge/React-8b5cf6?style=flat-square&logo=react&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-6366f1?style=flat-square&logo=typescript&logoColor=white)
+![Groq](https://img.shields.io/badge/Groq-ec4899?style=flat-square)
+![Vercel](https://img.shields.io/badge/Vercel-111827?style=flat-square&logo=vercel&logoColor=white)
 
-</td>
-<td valign="top" width="25%">
+A 4-agent analyst (Technical, Fundamental, Sentiment, Risk) that synthesizes real-time market data into a final buy/sell call with entry, stop-loss and take-profit levels.
 
-**ml / ai**
+- 15+ technical indicators (Wilder RSI, MACD, Bollinger Bands, ATR) from live yfinance OHLCV data, with a strict no-fabrication guarantee
+- Parallel LLaMA 3.3 70B agent calls via Groq
+- Risk-anchored coordinator rule (≥ 1.5 risk:reward) for position sizing
+- Serverless on Vercel, validated with a 29-test suite
 
-<img src="https://img.shields.io/badge/-PyTorch-39FF14?style=flat-square&logo=pytorch&logoColor=0D1117&labelColor=0D1117" /><br>
-<img src="https://img.shields.io/badge/-TensorFlow-39FF14?style=flat-square&logo=tensorflow&logoColor=0D1117&labelColor=0D1117" /><br>
-<img src="https://img.shields.io/badge/-Transformers-39FF14?style=flat-square&logo=huggingface&logoColor=0D1117&labelColor=0D1117" /><br>
-<img src="https://img.shields.io/badge/-LoRA_%2F_PEFT-39FF14?style=flat-square&labelColor=0D1117" />
-
-</td>
-<td valign="top" width="25%">
-
-**orchestration**
-
-<img src="https://img.shields.io/badge/-LangChain-39FF14?style=flat-square&labelColor=0D1117" /><br>
-<img src="https://img.shields.io/badge/-LangGraph-39FF14?style=flat-square&labelColor=0D1117" /><br>
-<img src="https://img.shields.io/badge/-FastAPI-39FF14?style=flat-square&logo=fastapi&logoColor=0D1117&labelColor=0D1117" /><br>
-<img src="https://img.shields.io/badge/-OpenCV-39FF14?style=flat-square&logo=opencv&logoColor=0D1117&labelColor=0D1117" />
+`repo link: add here`
 
 </td>
-<td valign="top" width="25%">
+<td width="50%" valign="top">
 
-**infra / tools**
+### InsurFlow
+**Multi-Agent Vehicle Insurance Claims System**
 
-<img src="https://img.shields.io/badge/-Docker-39FF14?style=flat-square&logo=docker&logoColor=0D1117&labelColor=0D1117" /><br>
-<img src="https://img.shields.io/badge/-Git-39FF14?style=flat-square&logo=git&logoColor=0D1117&labelColor=0D1117" /><br>
-<img src="https://img.shields.io/badge/-AWS_EC2-39FF14?style=flat-square&logo=amazonaws&logoColor=0D1117&labelColor=0D1117" /><br>
-<img src="https://img.shields.io/badge/-PostgreSQL-39FF14?style=flat-square&logo=postgresql&logoColor=0D1117&labelColor=0D1117" />
+![FastAPI](https://img.shields.io/badge/FastAPI-8b5cf6?style=flat-square&logo=fastapi&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-6366f1?style=flat-square&logo=pytorch&logoColor=white)
+![YOLOv8](https://img.shields.io/badge/YOLOv8-ec4899?style=flat-square)
+![TrOCR](https://img.shields.io/badge/TrOCR-111827?style=flat-square)
+
+End-to-end claims processor coordinating **7 specialized agents** behind a FastAPI backend.
+
+- Intake validation and damage assessment (YOLOv8)
+- OCR extraction (TrOCR)
+- Fraud detection (Isolation Forest)
+- Policy matching and decision logic
+- MCP-based tool calling for database and payment integrations
+
+`repo link: add here`
+
+</td>
+</tr>
+<tr>
+<td colspan="2" valign="top">
+
+### R-Search
+**RL-Enhanced LLM Reasoning**
+
+![PyTorch](https://img.shields.io/badge/PyTorch-8b5cf6?style=flat-square&logo=pytorch&logoColor=white)
+![Transformers](https://img.shields.io/badge/Transformers-6366f1?style=flat-square&logo=huggingface&logoColor=white)
+![LoRA](https://img.shields.io/badge/LoRA_/_PEFT-ec4899?style=flat-square)
+![HotpotQA](https://img.shields.io/badge/HotpotQA-+27%25_accuracy-22c55e?style=flat-square)
+![VRAM](https://img.shields.io/badge/VRAM-−35%25-22c55e?style=flat-square)
+
+Fine-tuned a 7B-parameter LLM with **GRPO** reinforcement learning for multi-hop reasoning. A composite reward balances semantic coherence with format compliance, with retrieval-grounded inference via the Exa search API. Delivered **+27% accuracy on HotpotQA** over the base model and **−35% VRAM** using LoRA/PEFT.
+
+`repo link: add here`
 
 </td>
 </tr>
 </table>
 
-```
-bhavuk@dev:~$ cat achievements.txt
-```
+<br>
 
-```
-[x] AWS Certified AI Practitioner
-[x] DeepLearning.AI — Neural Networks Specialization
-[x] 350+ DSA problems solved (LeetCode)
-[x] Active hackathon / coding competition participant
-```
+## Tech Stack
+
+<table>
+<tr>
+<td valign="top" width="25%">
+
+**Languages**
+
+![Python](https://img.shields.io/badge/-Python-8b5cf6?style=for-the-badge&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/-C++-6366f1?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Java](https://img.shields.io/badge/-Java-ec4899?style=for-the-badge&logo=openjdk&logoColor=white)
+![SQL](https://img.shields.io/badge/-SQL-8b5cf6?style=for-the-badge&logo=postgresql&logoColor=white)
+
+</td>
+<td valign="top" width="25%">
+
+**ML / AI**
+
+![PyTorch](https://img.shields.io/badge/-PyTorch-6366f1?style=for-the-badge&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/-TensorFlow-ec4899?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Transformers](https://img.shields.io/badge/-Transformers-8b5cf6?style=for-the-badge&logo=huggingface&logoColor=white)
+![LoRA](https://img.shields.io/badge/-LoRA_/_PEFT-6366f1?style=for-the-badge)
+
+</td>
+<td valign="top" width="25%">
+
+**Orchestration**
+
+![LangChain](https://img.shields.io/badge/-LangChain-ec4899?style=for-the-badge)
+![LangGraph](https://img.shields.io/badge/-LangGraph-8b5cf6?style=for-the-badge)
+![FastAPI](https://img.shields.io/badge/-FastAPI-6366f1?style=for-the-badge&logo=fastapi&logoColor=white)
+![OpenCV](https://img.shields.io/badge/-OpenCV-ec4899?style=for-the-badge&logo=opencv&logoColor=white)
+
+</td>
+<td valign="top" width="25%">
+
+**Infra / Tools**
+
+![Docker](https://img.shields.io/badge/-Docker-8b5cf6?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-6366f1?style=for-the-badge&logo=git&logoColor=white)
+![AWS](https://img.shields.io/badge/-AWS_EC2-ec4899?style=for-the-badge&logo=amazonaws&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-8b5cf6?style=for-the-badge&logo=postgresql&logoColor=white)
+
+</td>
+</tr>
+</table>
 
 <br>
 
+## Achievements
+
+- **AWS Certified AI Practitioner**
+- **DeepLearning.AI**: Neural Networks Specialization
+- **350+ DSA problems** solved on LeetCode
+- Active hackathon and coding competition participant
+
+<br>
+
+## GitHub Stats
+
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0D1117&height=2&width=800" />
+
+<img src="https://github-stats-extended.vercel.app/api?username=bhavuk1409&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="stats" height="165" />
+<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=bhavuk1409&layout=compact&theme=tokyonight&hide_border=true" alt="top langs" height="165" />
+
+<br>
+
+<img src="https://streak-stats.demolab.com?user=bhavuk1409&theme=tokyonight&hide_border=true" alt="streak" width="80%" />
+
+<br>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=bhavuk1409&theme=tokyo-night&hide_border=true&area=true&custom_title=Contribution%20Activity" width="98%" alt="activity graph" />
+
 </div>
 
-```
-bhavuk@dev:~$ curl -s api.github.com/users/bhavuk1409/stats | jq
-```
+<br>
 
-<div align="center">
-<img src="https://github-stats-extended.vercel.app/api?username=bhavuk1409&show_icons=true&hide_border=true&bg_color=0D1117&title_color=39FF14&text_color=C9D1D9&icon_color=39FF14&count_private=true" alt="stats" height="165" />
-<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=bhavuk1409&layout=compact&hide_border=true&bg_color=0D1117&title_color=39FF14&text_color=C9D1D9" alt="top langs" height="165" />
-</div>
-
-<div align="center">
-<img src="https://streak-stats.demolab.com?user=bhavuk1409&hide_border=true&background=0D1117&stroke=39FF14&ring=39FF14&fire=39FF14&currStreakLabel=39FF14&currStreakNum=39FF14&sideLabels=C9D1D9&sideNums=C9D1D9&dates=8B949E" alt="streak" width="80%" />
-</div>
-
-<div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=bhavuk1409&bg_color=0D1117&color=39FF14&line=39FF14&point=C9D1D9&area=true&hide_border=true&custom_title=commit%20activity" width="98%" alt="activity graph" />
-</div>
-
-```
-bhavuk@dev:~$ cat /etc/contact.conf
-```
-
-```
-email     bhavukagrawal1409@gmail.com
-linkedin  linkedin.com/in/bhavukagrawal1409
-github    github.com/bhavuk1409
-```
+## Let's Connect
 
 <div align="center">
 
-```
-bhavuk@dev:~$ █
-```
+[bhavukagrawal1409@gmail.com](mailto:bhavukagrawal1409@gmail.com) &nbsp;·&nbsp; [LinkedIn](https://linkedin.com/in/bhavukagrawal1409) &nbsp;·&nbsp; [GitHub](https://github.com/bhavuk1409)
 
-<img src="https://capsule-render.vercel.app/api?type=Rect&color=0:0D1117,100:0D1117&height=3&section=footer" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,18,20&height=120&section=footer" width="100%" alt="footer" />
 
 </div>
